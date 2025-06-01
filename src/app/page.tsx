@@ -45,7 +45,7 @@ export default function HomePage() {
                         <h1 className="text-4xl md:text-5xl font-bold leading-snug">
                             FIND THE <span className="text-lime-500">TALENT</span> SIGN UP & GET THE JOB DONE
                         </h1>
-                        <p className="text-xl font-semibold text-gray-700">WE'LL HANDLE THAT</p>
+                        <p className="text-xl font-semibold text-gray-700">WE WILL HANDLE THAT</p>
                         <Button className="bg-lime-500 text-white rounded-full px-6 py-3">Sign Up for Contract</Button>
                     </div>
                     {/*<div className="flex-1">*/}
