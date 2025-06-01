@@ -3,7 +3,7 @@
 import React from "react";
 import Button from "@/components/ui/Button";
 import Card from "@/components/ui/Card";
-import Image from "next/image";
+// import Image from "next/image";
 import Link from "next/link";
 import heroBackground from "../../public/brand-assets/hero-background.png"
 
